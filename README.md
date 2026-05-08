@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vessel000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- Igor Bitencourt Rosa
+- Curso tecnico completo em Desenvolvimento de sistemas
+- CUrsando Engenharia de Software
+- Em busca de maior conhecimento na area
 
 <!---
 Vessel000/Vessel000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
